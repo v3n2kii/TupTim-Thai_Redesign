@@ -9,7 +9,7 @@ https://templatemo.com/tm-506-tinker
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', arial, sans-serif;
+    font-family: 'Acumin Variable Concept', arial, sans-serif;
 	color: #455d1b;
 }
 
@@ -98,7 +98,7 @@ p {
 	font-size: 15px;
 	font-style: bolder;
 	font-weight: 300;
-	font-family: 'Source Sans Pro', arial, sans-serif;
+	font-family: 'Acumin Variable Concept', arial, sans-serif;
 	text-transform: uppercase;
 	text-shadow: none;
 	line-height: 80px;
@@ -111,7 +111,7 @@ p {
 }
 
 .header.active .navbar-nav>li>a {
-	font-family: 'Source Sans Pro', arial, sans-serif;
+	font-family: 'Acumin Variable Concept', arial, sans-serif;
 	font-size: 15px;
 	font-weight: 300;
 	letter-spacing: 0.5px;
@@ -741,7 +741,7 @@ footer .contact-us ul li a:hover {
 
 
 	.navbar-inverse .navbar-nav>li>a {
-		font-family: 'Roboto', sans-serif!important;
+		font-family: 'Acumin Variable Concept', sans-serif!important;
 		line-height: 55px;
 		color: #343434!important;
 	}
